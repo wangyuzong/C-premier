@@ -37,5 +37,6 @@ void display(const Stonewt& st, int n)
 	{
 		cout << "Wow! ";
 		st.show_stn();
-	}
+	-----------------
+ 
 }
